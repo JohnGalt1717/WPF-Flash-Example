@@ -1,0 +1,22 @@
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.csprojResolveAssemblyReference.cache
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.csproj.ResolveComReference.cache
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\MainWindow.g.cs
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\App.g.cs
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example_MarkupCompile.cache
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example_MarkupCompile.lref
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\StrobeMediaPlayback.2.0.swf
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\Flash Player Example.exe.config
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\Flash Player Example.exe
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\Flash Player Example.pdb
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\MainWindow.baml
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.g.resources
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\CADLearning.Windows.Player.Player.resources
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash_Player_Example.Properties.Resources.resources
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.csproj.GenerateResource.Cache
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.csproj.CoreCompileInputs.cache
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.exe
+D:\Repos\GitHub\Azure Media Services Flash Player\Flash Player Example\obj\Debug\Flash Player Example.pdb
